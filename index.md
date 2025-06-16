@@ -25,7 +25,7 @@ An organized listing of all mainline Pokémon games by generation, including reg
 
 ---
 
-### 🧪 Pokémon Custom ROMs & Fan Games
+### 🧪 Pokémon ROM Hack
 A table of popular ROM hacks, base games, and systems — from FireRed mods to complete custom builds.
 
 ➡️ [Read now](./pokemon-custom-roms/)
