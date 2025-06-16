@@ -1,3 +1,5 @@
+# 🕹️ The Evolution of Gaming Platforms
+
 ## 🧪 Era 1 – “Oscilloscopes → Coin‑Op” (1958–1977)
 
 ### 🔭 Overview: From Lab Curiosities to the Birth of Video Arcades
