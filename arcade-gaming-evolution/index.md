@@ -1,3 +1,5 @@
+# 🏛️ Arcade Gaming Evolution
+
 ## 🧪 Era 1 – “Oscilloscopes → Coin‑Op” (1958 – 1977)
 
 **Prototypes to Early Coin‑Op** – Laboratory curios (*Tennis for Two*, *Spacewar!*) proved electronic play was possible, but **Pong’s quarter‑eating success (1972)** showed video games could be big business. Mid‑’70s releases codified the recipe: **Tank** introduced twin‑stick control, **Gun Fight** debuted the first CPU‑driven cabinet, **Breakout** perfected solo score‑chasing and **Death Race** sparked gaming’s first moral panic. By 1977 coin mechs, raster CRTs and TTL/CPU boards were standard—ready for mass‑market arcades.
